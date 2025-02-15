@@ -10,4 +10,4 @@ Preprocessing and augmentation applied to the dataset
 
 Implements TensorFlow/Keras for deep learning
 
-Achieves high accuracy in kidney classification
+Achieves high accuracy in kidney classification.
